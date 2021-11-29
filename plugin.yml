@@ -1,0 +1,11 @@
+name: CraftPvP
+version: 1.1
+description: PvP System for your server!
+main: pl.mines.xcraftrayx.CraftPvP.CraftPvP
+author: xCraftRayX
+website: https://MineS.pl/
+api-version: 1.13
+
+commands:
+    CraftPvP:
+        description: Main plugin command
